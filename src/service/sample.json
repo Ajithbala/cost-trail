@@ -1,0 +1,22 @@
+{
+    "expenses": [
+      {
+        "name": "Groceries",
+        "type": "Food",
+        "date":"19/04/12024",
+        "price": 50.25
+      },
+      {
+        "name": "Gas",
+        "type": "Transportation",
+        "date":"19/04/12024",
+        "price": 40.50
+      },
+      {
+        "name": "Dinner with Friends",
+        "type": "Entertainment",
+        "date":"19/04/12024",
+        "price": 80.00
+      }
+    ]
+  }
